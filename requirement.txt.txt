@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+openpyxl
+plotly
+joblib
+autogluon
+xgboost
+lightgbm
+catboost
+torch
+fastai
+ipython
