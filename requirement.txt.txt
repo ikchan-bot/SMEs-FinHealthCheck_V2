@@ -6,9 +6,3 @@ openpyxl
 plotly
 joblib
 autogluon
-xgboost
-lightgbm
-catboost
-torch
-fastai
-ipython
